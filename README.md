@@ -38,5 +38,6 @@
   ```
   nombres = entrada.nextLine()
   cedula = entrada.nextLine()
-    ```
+  ```
+
   * Si el usuario ingresa algo diferente de 1 o 2; el programa debe presentar un mensaje que diga: "Error, opción no válida."
